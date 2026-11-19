@@ -1,0 +1,21 @@
+# 💫 About Me:
+👋 Hi, I'm Nibedita!<br><br>I'm a Software Engineer with 5 years of experience in Application & Production Support, currently expanding my skills in **DevOps and Cloud Engineering**.<br><br>I'm passionate about automation, infrastructure management, CI/CD pipelines, and deploying applications using modern DevOps tools.<br><br>### 🚀 Currently Learning & Working With<br>- **Cloud:** AWS (EC2, S3, IAM)<br>- **CI/CD:** Jenkins<br>- **Containerization:** Docker, Docker Compose<br>- **Configuration Management:** Ansible<br>- **Infrastructure as Code:** Terraform<br>- **Version Control:** Git & GitHub<br>- **Operating Systems:** Linux (CentOS, Ubuntu), Windows<br>- **Scripting:** Shell Scripting<br><br>### 🛠️ Hands-on Projects<br>- Building and deploying a 3-tier application using Docker and Docker Compose.<br>- Implementing Jenkins CI/CD pipelines with GitHub Webhooks.<br>- Pushing Docker images to Docker Hub.<br>- Deploying containerized applications on AWS EC2.<br>- Automating infrastructure and application deployment.<br><br>### 🎯 My Goal<br>To grow as a DevOps / Cloud Engineer by continuously learning, building real-world projects, and improving my automation and problem-solving skills.<br><br>📌 Learning by doing | Building | Automating | Growing
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susri-nibedita) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nibedita Satapathy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nibedita01212@gmail.com) 
+
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nibedita1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nibedita1212&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nibedita1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nibedita1212&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Nibedita1212&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
